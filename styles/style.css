@@ -16,7 +16,7 @@ ol {
     padding: 0;
 }
 
-a{
+a {
     color: black;
 }
 
@@ -130,7 +130,7 @@ a{
     z-index: -1;
 }
 
-h1{
+h1 {
     font-family: Raleway, sans-serif;
     font-size: 100px;
     font-weight: 700;
@@ -194,16 +194,13 @@ h1{
     position: absolute;
     font-size: 22px;
     letter-spacing: 0.01em;
-    
-    
 }
 
 .cover__description_text {
     font-weight: 400;
     word-spacing: 0.8em;
     top: 668px;
-    left: 78px;
-   
+    left: 78px; 
 }
 
 .button { 
@@ -262,7 +259,6 @@ h1{
     object-fit: cover;
     position: absolute;
     top: 0;
-
 }
 
 .card_type_book {
@@ -272,7 +268,6 @@ h1{
     object-fit: cover;
     position: absolute;
     top: 0;
-
 }
 
 .card_type_card {
@@ -282,7 +277,6 @@ h1{
     object-fit: cover;
     position: absolute;
     top: 0;
-
 }
 
 .lots_title {
@@ -353,6 +347,7 @@ h1{
     line-height: 46.96px;
     margin: 3px auto 100px;
 }
+
 .p_about {
     font-family: Raleway, sans-serif;
     font-size: 20px;
@@ -361,6 +356,7 @@ h1{
     margin-top: 24px;
 
 }
+
 .footer {
     display: flex;
     justify-content: space-between;
@@ -407,7 +403,7 @@ h1{
     height: 48px;
 }
 
-.link{
+.link {
     width: 48px;
     height: 48px;
 }
