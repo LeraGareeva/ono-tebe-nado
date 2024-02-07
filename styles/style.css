@@ -87,7 +87,7 @@ a {
     text-underline-offset: 3px;
 }
 
-.cover{
+.cover {
     margin: auto;
     width: 1100px;
     height: 757px;
@@ -121,7 +121,7 @@ a {
     color: white;
 }
 
-.overlay { 
+.overlay {
     background-color: rgb(0 0 0/ 0.6);
     min-width: 100%;
     min-height: 100%;
@@ -179,7 +179,7 @@ h1 {
 }
 
 .letter_n {
-    letter-spacing: 0.3em;  
+    letter-spacing: 0.3em;
 }
 
 .letter_ado {
@@ -200,10 +200,10 @@ h1 {
     font-weight: 400;
     word-spacing: 0.8em;
     top: 668px;
-    left: 78px; 
+    left: 78px;
 }
 
-.button { 
+.button {
     font-weight: 500;
     width: 256px;
     height: 51px;
@@ -329,12 +329,12 @@ h1 {
      display: block;
 }
 
-.logo_about_img { 
+.logo_about_img {
     width: 148px;
     height: 114px;
 }
 
-.about_text{
+.about_text {
     padding: 133px 0 0 72px;
     width: 693px;
     height: 449px;
