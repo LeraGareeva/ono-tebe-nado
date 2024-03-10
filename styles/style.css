@@ -54,7 +54,7 @@ ol {
 
 .header__address {
     justify-self: end;
-    padding-right: 63px; 
+    padding-right: 63px;
     padding-top: 5px;
 }
 
@@ -93,7 +93,7 @@ ol {
     z-index: -1;
 }
 
-h1{
+h1 {
     display: grid;
     row-gap: 20px;
     font-size: 100px;
@@ -103,7 +103,7 @@ h1{
     color: white;
     padding-top: 165px;
     padding-left: 50px;
-    padding-right: 50px; 
+    padding-right: 50px;
 }
 
 .aligned-text {
@@ -170,7 +170,6 @@ h1{
 .button {
     font-weight: 500;
     min-height: 51px;
-    padding: 0;
     letter-spacing: 0.03em;
     text-align: center;
     white-space: nowrap;
