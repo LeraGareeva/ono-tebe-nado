@@ -119,6 +119,7 @@ h1 {
 .aligned_text_center {
     text-align: center;
     line-height: 100px;
+    margin-right: 60px;
 }
 
 .aligned_text_right {
@@ -134,16 +135,16 @@ h1 {
     letter-spacing: 0;
 }
 
-.letter_spacing_extended_e {
-    letter-spacing: 0.6em;
-}
-
 .letter_spacing_extended_n {
     letter-spacing: 0.35em;
 }
 
 .letter_spacing_extended_no {
     letter-spacing: 0.6em;
+}
+
+.letter_spacing_extended_b {
+    letter-spacing: 0.35em;
 }
 
 .cover__description {
@@ -249,7 +250,7 @@ h1 {
     color: white;
     font-size: 20px;
     font-weight: 400;
-    padding: 0 40px 50px;
+    padding: 0 40px 45px;
     line-height: 24px;
 }
 
