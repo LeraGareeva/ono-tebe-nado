@@ -40,6 +40,7 @@ ol {
     align-items: center;
     padding: 44px 26.52px 39px;
     column-gap: 33px;
+    letter-spacing: 1%;
 }
 
 .header__links-list-item_no-bullit {
@@ -119,7 +120,7 @@ h1 {
 .aligned_text_center {
     text-align: center;
     line-height: 100px;
-    margin-right: 60px;
+    margin-right: 58px;
 }
 
 .aligned_text_right {
@@ -136,7 +137,7 @@ h1 {
 }
 
 .letter_spacing_extended_n {
-    letter-spacing: 0.35em;
+    letter-spacing: 0.36em;
 }
 
 .letter_spacing_extended_no {
@@ -144,7 +145,7 @@ h1 {
 }
 
 .letter_spacing_extended_b {
-    letter-spacing: 0.35em;
+    letter-spacing: 0.36em;
 }
 
 .cover__description {
