@@ -63,7 +63,8 @@ ol {
     font-style: normal;
     list-style-type: none;
     line-height: 24.3px;
-    text-underline-offset: 3px;
+    text-underline-offset: 4px;
+    text-decoration-thickness: .5px;
 }
 
 .cover {
@@ -248,6 +249,7 @@ h1 {
     padding: 51px 40px 0;
     text-underline-offset: 3px;
     text-decoration: underline;
+    text-decoration-thickness: .5px;
 }
 
 .lots__text {
@@ -263,6 +265,7 @@ h1 {
     text-underline-offset: 5px;
     padding-left: 40px;
     padding-top: 30px;
+    text-decoration-thickness: .5px;
 }
 
 .about {
@@ -280,7 +283,7 @@ h1 {
     height: 240px;
     border-radius: 50%;
     background-color: black;
-    margin-top: 37px;
+    margin-top: 36px;
     margin-left: 47px;
 }
 
@@ -305,7 +308,7 @@ h1 {
     font-weight: 700;
     text-transform: uppercase;
     line-height: 46.96px;
-    margin: 3px auto 100px;
+    margin: 2px auto 100px;
 }
 
 .about__description {
