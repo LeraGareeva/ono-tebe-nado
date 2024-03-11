@@ -27,7 +27,6 @@ ol {
 .header__logo {
     display: flex;
     justify-content: center;
-    width: 148px;
     height: 105px;
 }
 
@@ -164,8 +163,11 @@ h1 {
 
 .cover__description_text {
     font-weight: 400;
-    letter-spacing: 0.001em;
-    word-spacing: 18px;
+    word-spacing: 20px;
+}
+
+.cover__description_text_word-spacing {
+    word-spacing: 17px;
 }
 
 .button {
@@ -175,9 +177,10 @@ h1 {
     text-align: center;
     white-space: nowrap;
     background-color: transparent;
-    border-width: 1px;
+    border-width: 2px;
     border-color: white;
-    padding: 0 27px 0;
+    padding: 0 31.5px 0;
+    font-size: 21px;
 }
 
 .lots {
@@ -206,6 +209,7 @@ h1 {
     flex-direction: column;
     justify-content: space-between;
     min-height: 563px;
+    text-decoration: none;
 }
 
 
@@ -250,14 +254,14 @@ h1 {
     color: white;
     font-size: 20px;
     font-weight: 400;
-    padding: 0 40px 45px;
+    padding: 0 40px 46.5px;
     line-height: 24px;
 }
 
 .lots__look-more-link {
     font-size: 20px;
-    text-underline-offset: 3px;
-    padding-left: 41px;
+    text-underline-offset: 5px;
+    padding-left: 40px;
     padding-top: 30px;
 }
 
@@ -276,7 +280,7 @@ h1 {
     height: 240px;
     border-radius: 50%;
     background-color: black;
-    margin-top: 35px;
+    margin-top: 37px;
     margin-left: 47px;
 }
 
@@ -285,13 +289,13 @@ h1 {
 }
 
 .about__logo-image {
-    width: 150px;
-    padding-top: 5px;
+    width: 148px;
+    padding-top: 6px;
 
 }
 
 .about__text {
-    padding-top: 133px;
+    padding-top: 136px;
     width: 693px;
 }
 
